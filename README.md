@@ -1,7 +1,7 @@
 
          Managigng Multiple Slices with Redux Toolkit
 
- * * * * * Aplikacja poglądowa na prace z redux * * * * *
+            Aplikacja poglądowa na prace z redux
  
 1) Do bazy danych dodajemy swój samochód nazwe oraz cene
 2) Samochód zostaje wyswietlony w naszej bazie oraz ile kosztuje
